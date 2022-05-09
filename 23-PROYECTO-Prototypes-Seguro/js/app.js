@@ -109,7 +109,7 @@ UI.prototype.mostrarResultado = function(total,seguro){
     <p class="font-bold">Año: ${year}</p>
     <p class="font-bold">Tipo: <span class="capitalize font-normal">${tipo}</span></p>
     <p class="font-bold"> Total:$ ${total} </p>
-    `
+    `   
     const resultadoDiv = document.querySelector('#resultado')
    
 
