@@ -1,7 +1,5 @@
 body {
-    background: #e96443;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #904e95, #e96443);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #904e95, #e96443); 
+    background: linear-gradient(to right, #c9f9ff, #b3d9e5); 
 }
 .btn.btn-raised.btn-primary {
     background-color: #00838F!important;
@@ -31,9 +29,7 @@ body {
 #contenido {
     margin-top: 60px;
     background-color: white;
-    -webkit-box-shadow: 0px 21px 46px -15px rgba(0,0,0,1);
-    -moz-box-shadow: 0px 21px 46px -15px rgba(0,0,0,1);
-    box-shadow: 0px 21px 46px -15px rgba(0,0,0,1);
+    box-shadow: 0px 10px 20px -15px rgba(0,0,0,1)
 }
 .contenido-formulario {
     margin-top: 30px;
