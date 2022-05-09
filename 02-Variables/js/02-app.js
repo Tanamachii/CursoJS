@@ -1,0 +1,1 @@
+let producto2 = 'Tablet';
